@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiAzureAD.Api", "WebApiAzureAD.Api\WebApiAzureAD.Api.csproj", "{AAE7CFEC-AC5D-4636-9D6E-01BFD72DB17D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiAzureAD.Client", "WebApiAzureAD.Client\WebApiAzureAD.Client.csproj", "{852B3A0C-A0BA-42BD-8574-9D8C425D1802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAE7CFEC-AC5D-4636-9D6E-01BFD72DB17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE7CFEC-AC5D-4636-9D6E-01BFD72DB17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE7CFEC-AC5D-4636-9D6E-01BFD72DB17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE7CFEC-AC5D-4636-9D6E-01BFD72DB17D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{852B3A0C-A0BA-42BD-8574-9D8C425D1802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852B3A0C-A0BA-42BD-8574-9D8C425D1802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852B3A0C-A0BA-42BD-8574-9D8C425D1802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852B3A0C-A0BA-42BD-8574-9D8C425D1802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
